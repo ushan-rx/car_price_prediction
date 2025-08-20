@@ -7,8 +7,9 @@
 
 This project is a **Streamlit web application** that predicts the **price of a vehicle** based on its specifications.  
 The prediction model is trained on historical vehicle price data using **scikit-learn**.  
-
+ 
 ---
+Check it out 👉🏻 https://car-price-predict-0.streamlit.app/
 
 ## ✨ Features  
 
